@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>my mini hompy</title>
+  <style>
+    body {
+      background-color: #f6f6f6;
+      font-family: Arial, sans-serif;
+    }
+    .frame {
+      width: 800px;
+      margin: 50px auto;
+      background: white;
+      border: 2px solid #ccc;
+      padding: 20px;
+    }
+    h1 {
+      font-size: 24px;
+    }
+    .profile {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="frame">
+    <h1>윤채원의 미니홈피</h1>
+    <p>오늘의 한마디 : 아직 만드는 중…</p>
+
+    <div class="profile">
+      <p>📷 profile</p>
+      <p>좋아하는 것 : 영화, 만화, 음악</p>
+    </div>
+  </div>
+</body>
+</html>
